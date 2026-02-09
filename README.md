@@ -1,6 +1,8 @@
-    # Shadreck-Mapepala
+Name:Shadreck mapepala 
 Sin:2504270046
-Github repository:
+Course: Interactive web development
+
+Github repository:https://github.com/mapepalas-bot/Shadreck-Mapepala.git
  - My website contains a store that sells drugs, it is an interactive website because it to select the drug you need and add to cart.
 
  - 1. Five most challenging HTML elements to implement
