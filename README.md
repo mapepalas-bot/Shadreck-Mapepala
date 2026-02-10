@@ -1,5 +1,6 @@
-    # Shadreck-Mapepala
+Name: Shadreck Mapepala
 Sin:2504270046
+
 Github repository:https://github.com/mapepalas-bot/Shadreck-Mapepala.git
  - My website contains a store that sells drugs, it is an interactive website because it to select the drug you need and add to cart.
 
